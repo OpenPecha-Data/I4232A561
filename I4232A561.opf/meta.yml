@@ -1,0 +1,23 @@
+id: I4232A561
+initial_creation_type: ebook
+source_metadata:
+  id: MIN-PG-02
+  title: ༄༅། །བླ་མ་ལྔ་བཅུ་པའི་འགྲེལ་བཤད་དོན་གསལ་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  author: མཛད་པ་པོ། སྨིན་གླིང་ཁྲི་པདྨ་འགྱུར་མེད་རྒྱ་མཚོ།
+  authors: &id001
+  - མཛད་པ་པོ། སྨིན་གླིང་ཁྲི་པདྨ་འགྱུར་མེད་རྒྱ་མཚོ།
+  sku: MIN-PG-02
+  cover: MIN-PG-02.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །བླ་མ་ལྔ་བཅུ་པའི་འགྲེལ་བཤད་དོན་གསལ་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors: *id001
+  sku: MIN-PG-02
+  cover: MIN-PG-02.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
